@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinations", "Combinations\Combinations.csproj", "{91A26634-5FFB-4D92-BF5B-92092B43B84E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsTest", "CombinationsTest\CombinationsTest.csproj", "{36CFB2D9-5CB5-4D9E-85E5-BF4F4F1C406C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A26634-5FFB-4D92-BF5B-92092B43B84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A26634-5FFB-4D92-BF5B-92092B43B84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A26634-5FFB-4D92-BF5B-92092B43B84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A26634-5FFB-4D92-BF5B-92092B43B84E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36CFB2D9-5CB5-4D9E-85E5-BF4F4F1C406C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CFB2D9-5CB5-4D9E-85E5-BF4F4F1C406C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CFB2D9-5CB5-4D9E-85E5-BF4F4F1C406C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CFB2D9-5CB5-4D9E-85E5-BF4F4F1C406C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F64D2575-1B28-4FF9-AD22-05CF5602F32B}
+	EndGlobalSection
+EndGlobal
